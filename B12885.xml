@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation touching the surueying of the seacoales of Newcastle, Sunderland, and Blythe.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12885</idno><idno type="EEBO-CITATION">99892489</idno>
+  <idno type="VID">185609</idno>
+  <idno type="EEBO-PROQUEST">2240927205</idno>
+  
+            <idno type="STC">STC 8750</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[20]</idno>
+            <idno type="PROQUEST">ocm99892489</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892489e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185609)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation touching the surueying of the seacoales of Newcastle, Sunderland, and Blythe.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>5 sheets.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXIIII. [1624, i.e. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Newmarket the sixteenth day of February, in the two and twentieth yeere of our reigne ..</note>
+                  <note>Imprint from colophon; the publication year is given according to Lady Day dating.</note>
+                  <note>Arms 14; Steele notation: Sun- haue 2) Petition 3) extraor- 4) vnmer- 5) of to.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal --  Law and legislation --  England --  Northumberland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185609:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation touching the Surueying of the Seacoales of Newcastle, Sunderland, and Blythe.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the Commoditie of Seacoales of <hi>Newcastle</hi> vpon <hi>Tyne, Sun<g ref="char:EOLhyphen"/>derland,</hi> and <hi>Blythe,</hi> within Our County of <hi>Northumberland,</hi> and Our County Palatine of <hi>Duresme,</hi> and the places thereunto adioyning, is a merchandize so vsefull, aswell in respect of the decay of wood already much wasted within this Our Realme of <hi>England,</hi> as also in respect of the transporting of them into forreigne parts to the aduancement of the Trade of this Kingdome, by the natiue commodity thereof, as that We haue thought it a matter well worthy Our speciall care, and much im<g ref="char:EOLhyphen"/>porting the state and welfare of this Our Common wealth, to vphold and maintaine the repu<g ref="char:EOLhyphen"/>tation and value of the same:</p>
+            <p>And whereas vpon Information and Complaint made vnto Vs heretofore, of the many and great deceits, and abuses, done and offered vnto Vs, and Our louing Subiects of this Our Realme of <hi>England</hi> by the Oastmen, Diggers, Getters, and Traders for Coale in the Coale<g ref="char:EOLhyphen"/>mines of <hi>Newcastle, Sunderland,</hi> and <hi>Blythe</hi> aforesaid, and in all other places thereabouts, where the said Coales are digged and gotten, who in stead of good and merchantable Coales, send and bring vnto Our citie of <hi>London,</hi> and other parts of this Our Realme of <hi>England,</hi> and elsewhere, much Blacke earth, Drosse, Slate, and other vnmerchantable stuffe, which ariseth in, and about the said Coale-pittes, and is blacke like Coales, but not fit to burne, or Fuelable, and which the Oast<g ref="char:EOLhyphen"/>men, Diggers and Traders in Coales, doe well knowe, and yet doe purposely and voluntarily mingle the said deceitfull Blacke earth, Slate, Stone, and other vnfuelable stuffe amongst their good Coales, and sell and vtter the same for good and merchantable Coales, to the enriching of themselues, the preiudice of the Common-wealth, and the disgrace, and discredite of the said com<g ref="char:EOLhyphen"/>modity in forreigne parts:</p>
+            <p>Wee thereupon taking into Our princely care and consideration, the qualitie of these abuses, and the consequences thereof, and much desiring a reformation of the same, yet Our care was, that the said abuses informed of, might first euidently appeare to bee such indeede, as they were alleadged to be, and the Offendors and their manner of offending discouered thereby, the better to finde out a remedy to preuent the like inconueniences, and to that end Wee did referre the examination of the same, first vnto some of Our Counsell learned in the Law at that time, who made certificate
+<pb facs="tcp:185609:2"/> thereof vnto Vs, and afterwards the Lords, and others of Our Priuie Counsell, vpon Petition exhibited vnto them by the Traders, and Laders of Seacoales at <hi>Newcastle,</hi> did take conside<g ref="char:EOLhyphen"/>ration of the same, and did order and appoint a tryall thereof, to bee had by a legall proceeding in Our high Court of Starre-chamber; vpon which triall, as also by the certificate aforesaid, it did then appeare, That there were, and are seuerall sorts of Coales, at, or neere <hi>Newcastle,</hi> some of tenne and eleuen shillings the great Chaldron, which are good and fuelable, and some of foure or fiue shillings the chaldron, which are drossie, and vnfuelable, fit onely for Salt-pannes, and Lime-kilnes; And that albeit there are sufficient store of good Coales to serue the Realme of <hi>England,</hi> and forreigne vent, without any mixture of the bad, yet neuerthelesse the Oastmen, and Traders for Coales at <hi>Newcastle,</hi> (claiming a speciall Priuiledge to sell them to the Shippers) haue vsed voluntarily to mingle the good Coales with the bad and drossie Coales, and to sell them so mingled to gether at the highest prices of tenne and eleuen shillings the chaldron, warran<g ref="char:EOLhyphen"/>ting them all to bee of the best Coales, by this meanes gaining almost halfe in halfe, which said voluntary mingling, and corrupting of Coales, Our said Court of Starre-chamber found to be a great and generall abuse and enormity to Our whole Realme, and very meete to be suppressed, reformed and punished, And did then decree, that the offendors, then the Defendants, should be committed to the Fleete, and fyned twenty pounds a piece.</p>
+            <p>And to the end that others might take notice, how far Our said Court did mislike, &amp; condemne the said fraud and deceit, and their resolution to punish the same, The said Court thought fit, and so ordered, that the said Decree should bee publiquely read in open market, in the towne of <hi>New<g ref="char:EOLhyphen"/>castle,</hi> where the said offence had beene committed, on two Market dayes, when most people were assembled, for the more publique declaration thereof to the Countrey, as by the said Decree more at large appeareth.</p>
+            <p>And whereas, notwithstanding that exemplary punishment, inflicted by Our said Court of Starre-chamber, as aforesaid, and the publique manifestation thereof, before declared, Our desire for a due reformation of the abuses before mentioned, did not take that effect which Wee expected, but the deceits, and abuses aforesaid, did rather more and more increase, insomuch as the Masters, Wardens, Assistants, and companies of Wood-mongers, Brewers, Chaundlers, and other Tra<g ref="char:EOLhyphen"/>ders in <hi>London</hi> for Newcastle-Coales, became petitioners vnto Vs, crauing Our gracious fauour and assistance for the due reformation thereof; whereupon, and vpon consideration againe thereof had, by seuerall committees from the Lords, and others of Our Priuie Councell, at seue<g ref="char:EOLhyphen"/>rall times, vpon seuerall petitions exhibited, aswell by the Wood-mongers, Brewers, Chaundlers, and Traders for Coales in <hi>London,</hi> and other Porte Townes within this Our Realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as also by the Shippers, Masters, &amp; Owners of Ships, trading for Coales from <hi>Newcastle</hi> a<g ref="char:EOLhyphen"/>foresaid, and vpon suruey, and examination of the true state of those Coale-mines, and Coale-pits, by their Lordships speciall directions had, and taken, it appeared, and was found, that the abuses and deceits aforesaid, (notwithstanding the pretences to the contrary) did yet continue, and that there was no meanes so probable for reformation of the same, as the vigilant care and paines of faithfull and industrious persons, to be imployed and attendant at the Coale-pits, and Wharfes, of <hi>Newcastle,</hi> and other places adiacent, and they to be furnished with absolute authority from Vs, for the prohibiting, and preuenting of the deceitfull mixture of Coales, by the Oastmen and others, and to make certificates of the goodnesse, or badnesse of Coales, for the buyers direction, and auoi<g ref="char:EOLhyphen"/>ding of deceits therein not discernable by the eye; And the said Lords, and others of Our Priuie Councell, did humbly propose vnto Vs, diuers limitations, orders, and prouisions, which they con<g ref="char:EOLhyphen"/>ceiued fit and obseruable in the execution of the same. Wee therefore hauing well considered, and
+<pb facs="tcp:185609:3"/>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pprooued of the propositions, and prouisions before mentioned, and of the great care, and extraor<g ref="char:EOLhyphen"/>dinary charge vsed in the discouery of the abuses aforesaid, and of prouiding, propounding, and set<g ref="char:EOLhyphen"/>ling a fit and apt meanes for the reformation thereof, haue graciously beene pleased, not onely to reuoke all former Letters Patents, by Vs made for that purpose, (they in some particulars being found to bee defectiue,) but by other Our Letters Patents vnder. Our great Seale of <hi>England,</hi> bearing date the twentieth day of September, in the one and twentieth yeere of Our Reigne of <hi>England, France</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the seuen and fiftieth, Haue for Vs, Our Heires and suc<g ref="char:EOLhyphen"/>cessours, straitly ordained, established, charged and prohibited, that thereafter none of the said low prized Coales, called Panne coales, nor Drosse, blacke Earth, or other vnmerchantable stuffe whatsoeuer, shall by any of the said Oastmen, Owners, and Diggers of the said <hi>Newcastle</hi> Coales, or by any other person or persons whatsoeuer, be mingled, mixed, or put amongst good and mer<g ref="char:EOLhyphen"/>chantable Coales, nor shall at any time, or times hereafter, being so mingled, be brought, or trans<g ref="char:EOLhyphen"/>ported into any the Ports, or places of this Our Realme of <hi>England,</hi> or transported into any the parts beyond the Seas, vpon paine of Our high displeasure, and other the penalties therein contained.</p>
+            <p>And for the better obseruation and performance of Our will and pleasure in the same, We haue in, and by Our said Letters Patents, made, ordained, appointed, constituted, and erected an office to haue perpetuall continuance, which for euer hereafter shall be, and shall be called the office of Surueyour of Coales to be shipped at <hi>Newcastle, Sunderland,</hi> and <hi>Blythe,</hi> or any of them, or at any other places adiacent, to be brought and transported to Our citie of <hi>London,</hi> or other places of this Our Kingdome of <hi>England,</hi> or any the parts beyond the Seas; Which said office, We, of Our es<g ref="char:EOLhyphen"/>peciall Grace, certaine knowledge, and meere motion, and at the request and nomination of Our late right trustie and right welbeloued Couzen and Councellour, <hi>Lodowicke</hi> Duke of <hi>Richmond</hi> and <hi>Lenox,</hi> since deceased, Haue by Our said Letters Patents graunted vnto Our trusty and welbelo<g ref="char:EOLhyphen"/>ued Sir <hi>Robert Sharpeigh</hi> Knight, and <hi>Alexander Haitely</hi> Esquire, to hold to them and their Assignes, for the space of one and twentie yeeres, with such Fees and Allowances, and such Cautions, Di<g ref="char:EOLhyphen"/>rections, Limitations, and Promsions for the execution thereof, as by the said Lords, and others of Our priuie Councell haue beene thought fit and aduised, as in, and by the said Letters Patents nore at large may appeare.</p>
+            <p>Now, to the end Our louing Subiects may perceiue with what care and caution Our selfe and Our priuie Councell, haue proceeded in this businesse for the welfare of Our people, and the preuen<g ref="char:EOLhyphen"/>ion of all future inconuenience that may arise in a businesse of this nature, and to the end such as haue heretofore beene Delinquents in the premisses, may hereby take notice of Our pleasure, and not plead their ignorance, as an excuse for their misdemeanour; Wee haue thought fit hereby to make manifest and declare such speciall and necessary obseruations and directions, tending to the reformation aforesaid, and contained in Our said Letters Patents, as are most meet to be publi<g ref="char:EOLhyphen"/>shed, and of necessitie to be obserued in the performance of the same; And doe therefore signifie and declare Our will and pleasure to be, and We doe hereby straitly charge, prohibite and command, aswell all and euery the said Oastmen, and all others trading for Seacoales at <hi>Newcastle, Sunder<g ref="char:EOLhyphen"/>and</hi> and <hi>Blythe</hi> aforesaid, and the places adiacent, or working thereon, or imployed in or about the <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me, as also all and euery the Masters and Owners of any Shippes, Boats, Hoyes, Crayer or <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her vessels imployed for the conueying, transporting, or bringing the said Seacoales vnto Our <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id citie of <hi>London,</hi> or vnto any other Ports or places of this Our realme of <hi>England,</hi> or into any the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts beyond the Seas, That they, or any of them presume not to endeauour or attempt at any <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne or times hereafter, directly or indirectly by any practise or deuise whatsoeuer, to mingle or mixe
+<pb facs="tcp:185609:4"/> any of the said low prized and vnfuellable Coales, Drosse, Slate, Blacke-earth, or other vnmer<g ref="char:EOLhyphen"/>chantable Coales, not well picked or wealled, amongst, or with any the said good, pure and fuel<g ref="char:EOLhyphen"/>able Coales, neither shall buy, lade, or fraight into any their Ships, Boats, or other vessels any of the said drossy, and vnmerchantable Coales, as aforesaid, mingled with the said good and mer<g ref="char:EOLhyphen"/>chantable Coales; Nor shall at any time or times hereafter conuey or transport any of the said base and vnmerchantable Coales in any ship or other vessell whatsoeuer, in which the said good and merchantable Coales are conueyed or transported, nor together with the said good Coales; And that no woodmongers, wharfingers, merchants, or other traders in Coales whatsoeuer, shal at any time or times hereafter, lay or cause to be laid any of the said baser sort of Coales vpon one and the selfe same wharffe, together with the said good Coales.</p>
+            <p>And further, that none of the said Masters or Owners of Ships or other vessels, shall trans<g ref="char:EOLhyphen"/>port or conuey any such mingled Coales, or any other Coales, of what nature or qualitie soeuer, without Certificate from the Officer or Officers of Vs, Our Heires and Successors appointed for the surueying of Seacoales, as aforesaid, their Deputie or Deputies, vnder the Seale of their said Office, testifying the goodnesse, qualitie, or badnesse of his and their Coales, and the quan<g ref="char:EOLhyphen"/>titie thereof first had and obtained; And that no woodmonger, wharfinger, merchant, or trader in Seacoales in Our said citie of <hi>London,</hi> or in any other place or places whatsoeuer, within this Our realme of <hi>England,</hi> shall at any time or times hereafter, presume or goe about to buy or take any Coales of any Shipper, Owner or Master of any Ship, or other vessell whatsoeuer, that shall not shew and produce such certificate, as aforesaid, vpon paine of Our high displeasure, and such other paines, penalties and imprisonments, as by the Lawes and Statutes of this Our realme of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or by Our prerogatiue Royall, can or may be inflicted vpon them for their disobedience and contempt of Our Royall commandement in this behalfe.</p>
+            <p>And Wee will, and Our pleasure is, that for the more certaine preuention of the abuses afore<g ref="char:EOLhyphen"/>sayd, All and euery the Oastmen, Fitters, and Coale-owners, Staithes-men, Merchants for Coales, and all and singuler Masters and Owners of Shippes or other vessels, when they or any of them shall agree or contract together for any Coales to be conueyed or transported, as aforesaid, that they and euery of them, by themselues, their seruants, deputies or agents, shall from time to time deliuer, or cause to be deliuered vnto the said officer or officers of Vs, Our Heires and Succes<g ref="char:EOLhyphen"/>sors or his or their deputie, or deputies for the time being, true notes and tickets in writing, testifying the sortes and quantities of all such Coales, as from time to time they shall contract for, and from what Staithes they shall be serued and sent aboard, before the lading and clearing of the same, in such sort and manner, as by Our Letters Patents before recited is directed and set downe.</p>
+            <p>And whereas, in and by Our Letters Patents aforesaid, and vpon the offer of the Woodmong<g ref="char:EOLhyphen"/>ers, Brewers and other Traders for Coales in Our citie of <hi>London,</hi> and by the aduise of Our said Priuie Councell, Wee haue granted a Fee of foure pence vpon euery great chaldron of Coales to be conueyed and transported, as aforesaid, (those that are to be transported beyond the Seas by strangers only excepted) to be paid vnto the officer or officers of Vs, Our Heires and Successors for surueying of Seacoales, for their paines and charges in surueying of them, and making certifi<g ref="char:EOLhyphen"/>cates, and keeping Registers concerning the same; Our pleasure is, that all and euery Masters and Owners of ships or other vessels, shall from time to time, vpon their receiuing of their Cer<g ref="char:EOLhyphen"/>tificates aforesaid, pay or cause to be paid vnto the said Officer or Officers of Vs, Our Heires or Suc<g ref="char:EOLhyphen"/>cessors, their Deputies or Assignes the said Fee of foure pence for euery great chaldron of Coales, by them to be conueyed or transported, as aforesaid.</p>
+            <p>And that the said Woodmongers, Wharfingers, common Brewers, Dyers, Chaundlers, and others buying Coales from the Shippes, or other vessels, and selling the same againe in grosse,
+<pb facs="tcp:185609:5"/> or by retaile, shall well and duely answere, and pay vnto the sayd Shipper, Master, or Owner of any Shippe, or other vessell, producing such certificate, the said Fee, or Allowance of foure pence vpon euery great Chaldron of Coales, by him or them payd vnto Our sayd Officer or Officers, as aforesaid, without inhansing the prices of the said Coales vnto Our louing Subiects, that shall buy them againe for their priuate vse and expence, according to the aduice and order of the Lords, and others of Our Priuy Counsell therein.</p>
+            <p>And Our further will and pleasure is, and Wee doe hereby straitly charge and command the said Sir <hi>Robert Sharpeigh,</hi> and <hi>Alexander Haiteley,</hi> vnto whom Wee haue granted the said Office of Surueyour of the Seacoales, as aforesaid, That they, the said Sir <hi>Robert Sharpeigh,</hi> and <hi>Alexan<g ref="char:EOLhyphen"/>der Haiteley,</hi> their Executors, Administrators, and Assignes, by themselues or their sufficient depu<g ref="char:EOLhyphen"/>ties or seruants, doe, &amp; shall from time to time, during the said terme in Our said Letters Patents to them therof made, contained, faithfully, industriously, and carefully endeauour to see Our will and pleasure in the premisses strictly &amp; duely performed &amp; obserued; And to make true certificates, from time to time, of the quality and quantity of the said Coales, for the preuention of the abuses aforesaid, according to our particular directions in Our Letters Patents aforesaid to them giuen. And if at any time or times it shall happen, that the sayd Surueyour or Surueyours, their de<g ref="char:EOLhyphen"/>putie or deputies, shall wittingly and willingly make any false certificate, and it be found at any shippe or other vessell, that the said Coales are contrary to such certificate, corrupted and mingled, and not such in trueth, as they are certified to be; Then Our pleasure is, That the said Suruey<g ref="char:EOLhyphen"/>ours, their Executours, Administrators or Assignes, so wittingly and willingly falsifying the trust Wee haue reposed in them, shall make sufficient restitution and satisfaction vnto such Merchant, Wood-monger, Wharfinger, and other Traders in Coales, for the Losse and Dammage that he or they shall sustaine thereby.</p>
+            <p>And lastly, Wee doe hereby will and command all and singuler Maiors, Iustices of Peace, Customers, Comptrollers, Searchers, Waiters, Baylifes, Constables, Officers, and Ministers of Vs, Our Heires and Successours, to whom it shall, or may appertaine, that they, and euery of them, be from time to time, aiding and assisting vnto the said Sir <hi>Robert Sharpeigh,</hi> and <hi>Alexan<g ref="char:EOLhyphen"/>der Haiteley,</hi> their Executors, Administrators, Deputies and Assignes, &amp; to all other the Officers of Vs, Our Heires and Successors in this behalfe, in all lawfull manner, for the due execution of Our seruice herein, according to Our pleasure herein signified.</p>
+            <p>And that they, and euery of them, doe from time to time, cause diligent suruey, and inquiry to be made within their seuerall precincts, limits, and iurisdictions, of all offenders in this behalfe, and together with Our said Officer, or Officers, to make speedy certificate of their names without par<g ref="char:EOLhyphen"/>tiality, or conniuence vnto the Lords and others of Our Priuie Councell, or to Our Attourney ge<g ref="char:EOLhyphen"/>nerall for the time being, that they may be proceeded against in Our Court of Starre-chamber, or otherwise, according to their demerites. And Our will and pleasure is, That aswell the said Lords, and others of Our Priuie Councell, as Our Attourney generall for the time being, vse all care and diligence, to punish with seuerity, aswell the partiality, negligence, and remisnesse of the said Maiors, Iustices of Peace, Surueyors of Coales, and other Officers aforesaid, in not making due suruey, or certificate, as aforesaid, as the contemptuous behauiour of such, as shall presume to violate this Our Proclamation, or the Letters Patents before recited.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Newmarket</hi>
+                  <date>
+                     <hi>the sixteenth day of February, in the two and twentieth yeere of Our Reigne of England, France and Ireland, and of Scotland the eight and fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by <hi>Bonham Norton</hi> and <hi>Iohn Bill,</hi> Printers to the Kings most Excellent Maiestie. M.DC.XXIIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
